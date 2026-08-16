@@ -1,0 +1,19 @@
+providers/cloudflare-ai-gateway/models/openai/gpt-4o-mini.toml
+  s_99a329076ffb24::t_d7c4cf62f407a8 4-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "75638c56fae527e07752510e834092e8a1138af1",
+  "prompts": {},
+  "sessions": {
+    "s_99a329076ffb24": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fff72b4e1ffeGL76xXEqDX2hOh",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Charlie Gleason <cgleason@cloudflare.com>"
+    }
+  }
+}
