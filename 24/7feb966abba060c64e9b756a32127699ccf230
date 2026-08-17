@@ -1,0 +1,97 @@
+package.json
+  s_37b1a92564bdc1::t_6c905a56c7bc77 28
+packages/core/script/generate-cloudflare-ai-gateway.ts
+  s_9dd6fe37b80fd2::t_68a82d7a74d755 1-330
+providers/cloudflare-ai-gateway/README.md
+  s_2b5e6db8d6b9ef::t_8ebe78d761ee95 3-6,8,10,13,16,18-24,26-27,29,32,35-36,38,40-41,43,45-64,66,68-72,74,76-79,81,83-86,88-89,91,93,98,102-104,106-108
+providers/cloudflare-ai-gateway/models/anthropic/claude-haiku-4.5.toml
+  s_9dd6fe37b80fd2::t_ca1cc89a7565b6 6
+providers/cloudflare-ai-gateway/models/anthropic/claude-opus-4.5.toml
+  s_9dd6fe37b80fd2::t_f0fc079934c959 10
+providers/cloudflare-ai-gateway/models/anthropic/claude-opus-4.6.toml
+  s_9dd6fe37b80fd2::t_5692b0a189e423 11
+providers/cloudflare-ai-gateway/models/anthropic/claude-sonnet-4.5.toml
+  s_9dd6fe37b80fd2::t_186f1f7df7f1ec 6,15
+providers/cloudflare-ai-gateway/models/anthropic/claude-sonnet-4.6.toml
+  s_9dd6fe37b80fd2::t_f1ea226acebb6b 10,19-20
+providers/cloudflare-ai-gateway/models/openai/gpt-5.4-pro.toml
+  s_9dd6fe37b80fd2::t_80e6a4fe51e8c3 12
+providers/cloudflare-ai-gateway/models/openai/gpt-5.4.toml
+  s_9dd6fe37b80fd2::t_bfffca640b9bb2 13
+providers/cloudflare-ai-gateway/models/openai/gpt-5.5-pro.toml
+  s_9dd6fe37b80fd2::t_c4c06eccb8834b 12
+providers/cloudflare-ai-gateway/models/openai/gpt-5.5.toml
+  s_9dd6fe37b80fd2::t_f0cb8d79b89408 13
+providers/cloudflare-ai-gateway/models/openai/gpt-5.6-luna.toml
+  s_9dd6fe37b80fd2::t_445a0a84f81547 2-5,8-9,14-16,18
+providers/cloudflare-ai-gateway/models/openai/gpt-5.6-sol.toml
+  s_9dd6fe37b80fd2::t_a1769d3f7a89d4 2-5,8-10,14-18
+providers/cloudflare-ai-gateway/models/openai/gpt-5.6-terra.toml
+  s_9dd6fe37b80fd2::t_6f63975cdb8db5 2-5,8-11,14-18
+providers/cloudflare-ai-gateway/models/openai/gpt-5.6.toml
+  s_9dd6fe37b80fd2::t_d5e4cbd011ee5d 3-6,9-11,15-19
+providers/cloudflare-ai-gateway/models/openai/gpt-5.toml
+  s_9dd6fe37b80fd2::t_a50ba4bb146382 3-5,9
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/deepseek-ai/deepseek-r1-distill-qwen-32b.toml
+  s_9dd6fe37b80fd2::t_a01da00cf473f6 11-12
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/google/gemma-4-26b-a4b-it.toml
+  s_9dd6fe37b80fd2::t_67f03c6ec646b7 2,5-11
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/ibm-granite/granite-4.0-h-micro.toml
+  s_9dd6fe37b80fd2::t_8cf972cba69950 11-12
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/meta/llama-3.1-8b-instruct-fp8.toml
+  s_9dd6fe37b80fd2::t_a9aa72dfaaec81 12-13
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/meta/llama-3.2-11b-vision-instruct.toml
+  s_9dd6fe37b80fd2::t_20d0443907bda3 12-13
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/meta/llama-guard-3-8b.toml
+  s_9dd6fe37b80fd2::t_7171cae70e36ec 11-12
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/mistralai/mistral-small-3.1-24b-instruct.toml
+  s_9dd6fe37b80fd2::t_8d3ad5731f8de5 12-13
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/moonshotai/kimi-k2.6.toml
+  s_9dd6fe37b80fd2::t_57fb2dca9cf495 6-12
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/moonshotai/kimi-k2.7-code.toml
+  s_9dd6fe37b80fd2::t_4fffeec738d8bc 4-10
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/nvidia/nemotron-3-120b-a12b.toml
+  s_9dd6fe37b80fd2::t_a61d78aa37c981 4,7-13
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/qwen/qwen2.5-coder-32b-instruct.toml
+  s_9dd6fe37b80fd2::t_15655b03823056 12-13
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/qwen/qwen3-30b-a3b-fp8.toml
+  s_9dd6fe37b80fd2::t_ff8db223773d43 12-13
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/qwen/qwq-32b.toml
+  s_9dd6fe37b80fd2::t_c110ae4e25a1f2 13-14
+providers/cloudflare-ai-gateway/models/workers-ai/@cf/zai-org/glm-4.7-flash.toml
+  s_9dd6fe37b80fd2::t_8f3f9169e3aeaf 5-7,20-21
+providers/cloudflare-ai-gateway/overrides.toml
+  s_9dd6fe37b80fd2::t_9189e95e12c59c 1-512
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "247feb966abba060c64e9b756a32127699ccf230",
+  "prompts": {},
+  "sessions": {
+    "s_2b5e6db8d6b9ef": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fef51fd47ffexLcd5y1iy8f1zh",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Charlie Gleason <cgleason@cloudflare.com>"
+    },
+    "s_37b1a92564bdc1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feed3be5bffe3nK0jIeQdjGhhA",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Charlie Gleason <cgleason@cloudflare.com>"
+    },
+    "s_9dd6fe37b80fd2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fef09b27effe4f8u5tq69gxLW0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Charlie Gleason <cgleason@cloudflare.com>"
+    }
+  }
+}
